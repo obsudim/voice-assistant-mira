@@ -1,3 +1,4 @@
+# ИМпорт библиотек 
 import vosk
 import time
 
